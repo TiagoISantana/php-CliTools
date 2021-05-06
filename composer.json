@@ -1,0 +1,19 @@
+{
+    "name": "tisantan/php-clitools",
+    "description": "Cli tool that helps you debug better a console",
+    "keywords": ["Cli"],
+    "authors": [
+        {
+            "name": "Tiago Santana"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cli\\": "src/Cli/"
+        }
+    }
+}
