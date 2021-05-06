@@ -1,10 +1,10 @@
 # PHP library to help on console application or debug
 
-- User progress bars
-- Multicolor text and backgrounds
-- Block divisor
 - Get user input
 - Debug code
+- Progress bars
+- Multicolor text and backgrounds
+- Block divisor
 - And more...
 
 
